@@ -150,10 +150,7 @@ public class AboutActivity extends FragmentActivity {
 
         switch (item.getItemId()) {
             case MENU_BACK:
-                Intent homeIntent = new Intent();
-                homeIntent.setClassName("com.carbon.fibers", "com.carbon.fibers.SettingsActivity");
-                homeIntent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
-                startActivity(homeIntent);
+                onBackPressed();
                 return true;
             default:
                 return super.onContextItemSelected(item);

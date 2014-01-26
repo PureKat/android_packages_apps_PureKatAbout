@@ -25,7 +25,7 @@
     <RelativeLayout
         android:id="@+id/image_here"
         android:layout_width="wrap_content"
-        android:layout_height="265dip"
+        android:layout_height="270dip"
         android:gravity="center_vertical"
         android:background="@drawable/card_selector"
         android:orientation="vertical"
@@ -56,7 +56,7 @@
                 android:ellipsize="end"
                 android:gravity="center_horizontal"
                 android:textColor="@android:color/white"
-                android:layout_marginLeft="15dp"
+                android:layout_marginLeft="14dp"
                 android:textAppearance="@style/dev_name_text_style"
                 android:layout_below="@+id/photo"
                 android:layout_centerHorizontal="true" />
@@ -83,10 +83,24 @@
             android:ellipsize="end"
             android:gravity="center_horizontal"
             android:textColor="@android:color/white"
-            android:layout_marginLeft="15dp"
+            android:layout_marginLeft="14dp"
             android:paddingBottom="4dp"
             android:textAppearance="@style/status_text_style"
             android:layout_below="@+id/twitter_name"
+            android:layout_alignParentLeft="true" />
+
+        <TextView
+            android:id="@+id/device_status"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:singleLine="true"
+            android:ellipsize="end"
+            android:gravity="center_horizontal"
+            android:textColor="@android:color/white"
+            android:layout_marginLeft="14dp"
+            android:paddingBottom="4dp"
+            android:textAppearance="@style/device_status_text_style"
+            android:layout_below="@+id/status"
             android:layout_alignParentLeft="true" />
 
     </RelativeLayout>

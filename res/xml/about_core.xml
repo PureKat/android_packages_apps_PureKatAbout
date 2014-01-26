@@ -3,20 +3,32 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:carbon="http://schemas.android.com/apk/res/com.carbon.about">
 
-       <PreferenceScreen
-           android:key="core_summary"
-           android:layout="@layout/core_summary" />
+        <com.carbon.about.widget.DeveloperPreference
+            carbon:nameDev="Adam Sambuco"
+            carbon:statusDev="@string/status_designers"
+            carbon:googleHandle="108778167441489933514" />
 
         <com.carbon.about.widget.DeveloperPreference
             carbon:nameDev="Andros Rosa"
+            carbon:deviceStat="Galaxy S3 (i9300), I997"
             carbon:statusDev="@string/status_core_dev"
             carbon:googleHandle="111721285589066146000"
             carbon:githubLink="http://github.com/andros11"
             carbon:emailDev="andros2011@gmail.com" />
 
         <com.carbon.about.widget.DeveloperPreference
+            carbon:nameDev="Bionic Beast"
+            carbon:statusDev="@string/status_pr" />
+
+        <com.carbon.about.widget.DeveloperPreference
+            carbon:nameDev="Damien Deaucali"
+            carbon:statusDev="@string/status_designers"
+            carbon:googleHandle="106985547279703270477" />
+
+        <com.carbon.about.widget.DeveloperPreference
             carbon:nameDev="Daniel Max"
-            carbon:statusDev="@string/status_dev"
+            carbon:deviceStat="HTC One (m7xx), Oppo N1 (n1)"
+            carbon:statusDev="@string/status_core_dev"
             carbon:googleHandle="115569516936113574583"
             carbon:githubLink="http://github.com/daxxmax"
             carbon:emailDev="daxx4182@gmail.com"
@@ -31,10 +43,25 @@
 
         <com.carbon.about.widget.DeveloperPreference
             carbon:nameDev="Matt Bloomfield"
+            carbon:deviceStat="HTC One X (endeavoru), Galaxy Note 3 LTE (hltexx)"
             carbon:statusDev="@string/status_dev"
             carbon:googleHandle="115194825327804536850"
             carbon:githubLink="http://github.com/mattmanwrx"
             carbon:emailDev="webmaster@mattman.org" />
+
+        <com.carbon.about.widget.DeveloperPreference
+            carbon:nameDev="Patrick Campanale"
+            carbon:statusDev="@string/status_designers"
+            carbon:googleHandle="112082828842151104248" />
+
+        <com.carbon.about.widget.DeveloperPreference
+            carbon:nameDev="Robert Rascon"
+            carbon:statusDev="@string/status_dev"
+            carbon:deviceStat="Galaxy S3 Variant (d2xxx), LG G2 (vs980)"
+            carbon:googleHandle="101779483513094545241"
+            carbon:githubLink="http://github.com/bigshotrob22"
+            carbon:emailDev="rrascon22@gmail.com"
+            carbon:twitterLink="bigshotrob22" />
 
         <com.carbon.about.widget.DeveloperPreference
             carbon:nameDev="Tom Dulin"
@@ -52,37 +79,11 @@
 
         <com.carbon.about.widget.DeveloperPreference
             carbon:nameDev="Tylar Overturf"
+            carbon:deviceStat="Nexus 7 2012'13, Galaxy Nexus (tuna), Nexus 5 (hammerhead)"
             carbon:statusDev="@string/status_core_dev"
             carbon:googleHandle="106513914946845471488"
             carbon:githubLink="http://github.com/winner00"
             carbon:emailDev="toverturf@gmail.com"
             carbon:twitterLink="expertontech" />
-
-       <PreferenceScreen
-           android:key="designers_summary"
-           android:layout="@layout/designers_summary" />
-
-        <com.carbon.about.widget.DeveloperPreference
-            carbon:nameDev="Adam Sambuco"
-            carbon:statusDev="@string/status_designers"
-            carbon:googleHandle="108778167441489933514" />
-
-        <com.carbon.about.widget.DeveloperPreference
-            carbon:nameDev="Patrick Campanale"
-            carbon:statusDev="@string/status_designers"
-            carbon:googleHandle="112082828842151104248" />
-
-        <com.carbon.about.widget.DeveloperPreference
-            carbon:nameDev="Damien Deaucali"
-            carbon:statusDev="@string/status_designers"
-            carbon:googleHandle="106985547279703270477" />
-
-       <PreferenceScreen
-           android:key="pr_summary"
-           android:layout="@layout/pr_summary" />
-
-        <com.carbon.about.widget.DeveloperPreference
-            carbon:nameDev="Bionic Beast"
-            carbon:statusDev="@string/status_pr" />
 
 </PreferenceScreen>

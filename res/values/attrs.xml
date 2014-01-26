@@ -2,14 +2,15 @@
 <resources>
 
     <declare-styleable name="DeveloperPreference">
-        <attr name="nameDev" format="string" />
-        <attr name="statusDev" format="string" />
-        <attr name="emailDev" format="string" />
         <attr name="devIcon" format="reference" />
         <attr name="devUrl" format="string" />
-        <attr name="googleHandle" format="string" />
+        <attr name="deviceStat" format="string" />
         <attr name="donateLink" format="string" />
+        <attr name="emailDev" format="string" />
         <attr name="githubLink" format="string" />
+        <attr name="googleHandle" format="string" />
+        <attr name="nameDev" format="string" />
+        <attr name="statusDev" format="string" />
         <attr name="twitterLink" format="string" />
     </declare-styleable>
 

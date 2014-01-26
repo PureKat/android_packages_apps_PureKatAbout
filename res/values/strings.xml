@@ -31,11 +31,6 @@
     <string name="carbon_maintainers">Maintainers</string>
     <string name="carbon_team">Team Meetup</string>
 
-    <string name="carbon_core_summary">Core Members</string>
-    <string name="carbon_designers_summary">Carbon Designers</string>
-    <string name="carbon_maintainers_summary">Carbon Maintainers</string>
-    <string name="carbon_pr_summary">Carbon Public Relations</string>
-
     <!-- Carbon Team -->
     <string name="carbon_title">Carbon Team</string>
     <string name="carbon_version_text"></string>
@@ -44,7 +39,7 @@
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="navigation_drawer_toggle">Toggle Drawer</string>
-    <string name="toggle_back_cfibers">Back to Carbon Fibers</string>
+    <string name="toggle_back_cfibers">Back</string>
 
     <!-- Layout dev_card strings -->
     <string name="donate">Donate</string>
