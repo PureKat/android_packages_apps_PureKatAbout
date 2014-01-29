@@ -17,8 +17,10 @@
             carbon:emailDev="andros2011@gmail.com" />
 
         <com.carbon.about.widget.DeveloperPreference
-            carbon:nameDev="Bionic Beast"
-            carbon:statusDev="@string/status_pr" />
+            carbon:nameDev="Ahmed Khalil"
+            carbon:statusDev="@string/status_pr"
+            carbon:googleHandle="112969077631740414020"
+            carbon:emailDev="webmaster@carbon-rom.com" />
 
         <com.carbon.about.widget.DeveloperPreference
             carbon:nameDev="Damien Deaucali"
