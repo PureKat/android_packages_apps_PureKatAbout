@@ -18,18 +18,12 @@
 package com.carbon.about;
 
 import android.content.Context;
-import android.os.SystemProperties;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 
 public class Utils {
-
-    public static String getCarbonVersion() {
-        String version = SystemProperties.get("ro.romstats.name");
-        return version;
-    }
 
     public static String readRawFile(Context context, int resource) {
         InputStream inputStream = context.getResources().openRawResource(resource);

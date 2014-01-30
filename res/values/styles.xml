@@ -26,4 +26,10 @@
         <item name="android:textSize">9sp</item>
     </style>
 
+    <style name="button_text_style">
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
 </resources>

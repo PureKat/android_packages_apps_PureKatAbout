@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright (C) 2013 Carbon Development
+<!-- Copyright (C) 2014 Carbon Development
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -54,4 +54,8 @@
     <string name="status_gerrit">Gerrit Maintainer</string>
     <string name="status_core_dev">Core Developer</string>
     <string name="status_dev_and_co_founder">Developer / Co-Founder</string>
+
+    <!-- URLs -->
+    <string name="cr_website_title">Visit our website</string>
+    <string name="cr_donate_title">Donate to CarbonDev</string>
 </resources>
