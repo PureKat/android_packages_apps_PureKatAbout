@@ -45,11 +45,12 @@
 
         <com.carbon.about.widget.DeveloperPreference
             carbon:nameDev="Matt Bloomfield"
-            carbon:deviceStat="HTC One X (endeavoru), Galaxy Note 3 LTE (hltexx)"
+            carbon:deviceStat="HTC One X (endeavoru), Galaxy Note 3 LTE (hltexx), Galaxy Note (n7000)"
             carbon:statusDev="@string/status_dev"
             carbon:googleHandle="115194825327804536850"
             carbon:githubLink="http://github.com/mattmanwrx"
-            carbon:emailDev="webmaster@mattman.org" />
+            carbon:emailDev="webmaster@mattman.org"
+            carbon:twitterLink="_mattmann"  />
 
         <com.carbon.about.widget.DeveloperPreference
             carbon:nameDev="Patrick Campanale"

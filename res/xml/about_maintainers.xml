@@ -36,6 +36,13 @@
             carbon:githubLink="http://github.com/ktempleton" />
 
         <com.carbon.about.widget.DeveloperPreference
+            carbon:nameDev="Mehmet &quot;aways&quot; Sanok"
+            carbon:deviceStat="Galaxy S4 I9505 (jfltexx)"
+            carbon:googleHandle="112103389398481585584"
+            carbon:githubLink="http://github.com/aways"
+            carbon:emailDev="mehmetsanok@gmail.com" />
+
+        <com.carbon.about.widget.DeveloperPreference
             carbon:nameDev="Rabih &quot;Somcom3x&quot; Salamey"
             carbon:deviceStat="Galaxy T769, I577, T989, I727"
             carbon:googleHandle="103428140874910659774"
