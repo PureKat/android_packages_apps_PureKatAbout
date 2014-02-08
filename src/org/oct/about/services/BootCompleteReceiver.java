@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package com.carbon.about.services;
+package org.oct.about.services;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
@@ -23,13 +23,13 @@ import android.content.Intent;
 import android.content.SharedPreferences;
 import android.util.Log;
 
-import com.carbon.about.activities.AboutActivity;
-import com.carbon.about.Utils;
+import org.oct.about.activities.AboutActivity;
+import org.oct.about.Utils;
 
 
 public class BootCompleteReceiver extends BroadcastReceiver {
 
-    private static final String ABOUT_INTENT = "com.carbon.about.activities.AboutActivity";
+    private static final String ABOUT_INTENT = "org.oct.about.activities.AboutActivity";
     private static final String TAG = "AboutBootReceiver";
 
     @Override

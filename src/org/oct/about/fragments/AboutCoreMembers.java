@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.carbon.about.fragments;
+package org.oct.about.fragments;
 
 import android.content.ActivityNotFoundException;
 import android.content.ComponentName;
@@ -32,9 +32,9 @@ import android.widget.ListView;
 import java.util.ArrayList;
 import java.util.Collections;
 
-import com.carbon.about.R;
+import org.oct.about.R;
 
-public class AboutMaintainers extends PreferenceFragment {
+public class AboutCoreMembers extends PreferenceFragment {
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
@@ -51,7 +51,7 @@ public class AboutMaintainers extends PreferenceFragment {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        addPreferencesFromResource(R.xml.about_maintainers);
+        addPreferencesFromResource(R.xml.about_core);
     }
 
     @Override

@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package com.carbon.about;
+package org.oct.about;
 
 import android.content.Context;
 

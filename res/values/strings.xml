@@ -16,7 +16,7 @@
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <string name="app_name">About Carbon</string>
+    <string name="app_name">About OctOS</string>
     <string name="maintainers_title">Maintainers</string>
     <string name="maintainers_version_text">listed in no particular order</string>
     <string name="finish_button_text">Finish</string>
@@ -27,13 +27,13 @@
     <!-- Tabs -->
     <string name="about_title">About</string>
     <string name="features_title">Features</string>
-    <string name="carbon_main_members">Core Team</string>
-    <string name="carbon_maintainers">Maintainers</string>
-    <string name="carbon_team">Team Meetup</string>
+    <string name="oct_main_members">Core Team</string>
+    <string name="oct_maintainers">Maintainers</string>
+    <string name="oct_team">Team Meetup</string>
 
-    <!-- Carbon Team -->
-    <string name="carbon_title">Carbon Team</string>
-    <string name="carbon_version_text"></string>
+    <!-- Team OctOS -->
+    <string name="octos_title">Team OctOS</string>
+    <string name="octos_version_text"></string>
 
     <!-- Drawer dependency -->
     <string name="navigation_drawer_open">Open navigation drawer</string>
@@ -56,6 +56,6 @@
     <string name="status_dev_and_co_founder">Developer / Co-Founder</string>
 
     <!-- URLs -->
-    <string name="cr_website_title">Visit our website</string>
-    <string name="cr_donate_title">Donate to CarbonDev</string>
+    <string name="oct_website_title">Visit our website</string>
+    <string name="oct_donate_title">Donate to OctOS</string>
 </resources>

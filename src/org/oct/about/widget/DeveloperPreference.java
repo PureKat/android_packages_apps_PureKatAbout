@@ -16,7 +16,7 @@
  */
 
 
-package com.carbon.about.widget;
+package org.oct.about.widget;
 
 import android.content.ActivityNotFoundException;
 import android.content.Context;
@@ -40,7 +40,7 @@ import android.widget.PopupMenu;
 import android.widget.PopupMenu.OnMenuItemClickListener;
 import android.widget.TextView;
 
-import com.carbon.about.R;
+import org.oct.about.R;
 import com.koushikdutta.urlimageviewhelper.UrlImageViewHelper;
 
 import java.security.MessageDigest;

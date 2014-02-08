@@ -10,7 +10,7 @@ LOCAL_STATIC_JAVA_LIBRARIES := \
     android-support-v4 \
     android-support-v13
 
-LOCAL_PACKAGE_NAME := CarbonAbout
+LOCAL_PACKAGE_NAME := OctOSAbout
 
 include $(BUILD_PACKAGE)
 

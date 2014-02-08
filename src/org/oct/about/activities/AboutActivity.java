@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.carbon.about.activities;
+package org.oct.about.activities;
 
 import android.app.ActionBar;
 import android.app.Activity;
@@ -46,9 +46,9 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
 
-import com.carbon.about.R;
-import com.carbon.about.fragments.*;
-import com.carbon.about.widget.CustomDrawerLayout;
+import org.oct.about.R;
+import org.oct.about.fragments.*;
+import org.oct.about.widget.CustomDrawerLayout;
 
 public class AboutActivity extends FragmentActivity {
 
@@ -282,8 +282,8 @@ public class AboutActivity extends FragmentActivity {
         DRAWER_MODE = 0;
         titleString = new String[]{
                 getString(R.string.about_title),
-                getString(R.string.carbon_main_members),
-                getString(R.string.carbon_maintainers)};
+                getString(R.string.oct_main_members),
+                getString(R.string.oct_maintainers)};
         return titleString;
     }
 

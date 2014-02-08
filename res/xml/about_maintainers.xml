@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PreferenceScreen
     xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:carbon="http://schemas.android.com/apk/res/com.carbon.about">
+    xmlns:oct="http://schemas.android.com/apk/res/org.oct.about">
 
         <!-- How to add yourself
          *  your name > carbon:nameDev
@@ -13,48 +13,20 @@
          **   simple as one two and three
         -->
 
-        <com.carbon.about.widget.DeveloperPreference
-            carbon:nameDev="David &quot;PhaseBurn&quot; Bauman"
-            carbon:deviceStat="Nexus 4 (mako), Nexus 10 (manta)"
-            carbon:googleHandle="101891874131763807773"
-            carbon:githubLink="http://github.com/phaseburn"
-            carbon:emailDev="phaseburn@phaseburn.net"
-            carbon:twitterLink="phaseburn" />
+        <org.oct.about.widget.DeveloperPreference
+            oct:nameDev="Kevin Chupe"
+            oct:deviceStat="Galaxy S4"
+            oct:googleHandle="100982603651349625547"
+            oct:githubLink="http://github.com/treken"
+            oct:emailDev="treken@teamoctos.com"
+            oct:twitterLink="treken_" />
 
-        <com.carbon.about.widget.DeveloperPreference
-            carbon:nameDev="John Kirk"
-            carbon:deviceStat="Galaxy S3 DoCoMo (d2dcm)"
-            carbon:googleHandle="105123805981409687545"
-            carbon:githubLink="http://github.com/xInterlopeRx"
-            carbon:emailDev="jkirk777@gmail.com"
-            carbon:twitterLink="xInterloper777x" />
-
-        <com.carbon.about.widget.DeveloperPreference
-            carbon:nameDev="Ktempleton"
-            carbon:deviceStat="Galaxy S I577, D710"
-            carbon:googleHandle="110561769492553874762"
-            carbon:githubLink="http://github.com/ktempleton" />
-
-        <com.carbon.about.widget.DeveloperPreference
-            carbon:nameDev="Mehmet &quot;aways&quot; Sanok"
-            carbon:deviceStat="Galaxy S4 I9505 (jfltexx)"
-            carbon:googleHandle="112103389398481585584"
-            carbon:githubLink="http://github.com/aways"
-            carbon:emailDev="mehmetsanok@gmail.com" />
-
-        <com.carbon.about.widget.DeveloperPreference
-            carbon:nameDev="Rabih &quot;Somcom3x&quot; Salamey"
-            carbon:deviceStat="Galaxy T769, I577, T989, I727"
-            carbon:googleHandle="103428140874910659774"
-            carbon:githubLink="http://github.com/somcom3x"
-            carbon:emailDev="somcom3@gmail.com"/>
-
-        <com.carbon.about.widget.DeveloperPreference
-            carbon:nameDev="vishal_android freak"
-            carbon:deviceStat="Xperia 2011 line up"
-            carbon:googleHandle="102092276437562778223"
-            carbon:githubLink="http://github.com/vishal-android-freak"
-            carbon:emailDev="yzvishal.vd@gmail.com"/>
-
+        <org.oct.about.widget.DeveloperPreference
+            oct:nameDev="Carl Windhausen"
+            oct:deviceStat="Galaxy S4"
+            oct:googleHandle="108504552994670221216"
+            oct:githubLink="http://github.com/CJDubbsy"
+            oct:emailDev="dubbsy@teamoctos.com"
+            oct:twitterLink="" />
 
 </PreferenceScreen>

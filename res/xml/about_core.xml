@@ -1,92 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PreferenceScreen
     xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:carbon="http://schemas.android.com/apk/res/com.carbon.about">
+    xmlns:oct="http://schemas.android.com/apk/res/org.oct.about">
 
-        <com.carbon.about.widget.DeveloperPreference
-            carbon:nameDev="Adam Sambuco"
-            carbon:statusDev="@string/status_designers"
-            carbon:googleHandle="108778167441489933514" />
+        <org.oct.about.widget.DeveloperPreference
+            oct:nameDev="Kevin Chupe"
+            oct:deviceStat="Galaxy S4"
+            oct:googleHandle="100982603651349625547"
+            oct:githubLink="http://github.com/treken"
+            oct:emailDev="treken@teamoctos.com"
+            oct:twitterLink="treken_" />
 
-        <com.carbon.about.widget.DeveloperPreference
-            carbon:nameDev="Andros Rosa"
-            carbon:deviceStat="Galaxy S3 (i9300), I997"
-            carbon:statusDev="@string/status_core_dev"
-            carbon:googleHandle="111721285589066146000"
-            carbon:githubLink="http://github.com/andros11"
-            carbon:emailDev="andros2011@gmail.com" />
-
-        <com.carbon.about.widget.DeveloperPreference
-            carbon:nameDev="Ahmed Khalil"
-            carbon:statusDev="@string/status_pr"
-            carbon:googleHandle="112969077631740414020"
-            carbon:emailDev="webmaster@carbon-rom.com" />
-
-        <com.carbon.about.widget.DeveloperPreference
-            carbon:nameDev="Damien Deaucali"
-            carbon:statusDev="@string/status_designers"
-            carbon:googleHandle="106985547279703270477" />
-
-        <com.carbon.about.widget.DeveloperPreference
-            carbon:nameDev="Daniel Max"
-            carbon:deviceStat="HTC One (m7xx), Oppo N1 (n1)"
-            carbon:statusDev="@string/status_core_dev"
-            carbon:googleHandle="115569516936113574583"
-            carbon:githubLink="http://github.com/daxxmax"
-            carbon:emailDev="daxx4182@gmail.com"
-            carbon:twitterLink="daxxmax" />
-
-        <com.carbon.about.widget.DeveloperPreference
-            carbon:nameDev="Derek Galinas"
-            carbon:statusDev="@string/status_dev_and_co_founder"
-            carbon:googleHandle="114660037306973840401"
-            carbon:githubLink="http://github.com/dg4prez"
-            carbon:emailDev="mrdgelinas@gmail.com" />
-
-        <com.carbon.about.widget.DeveloperPreference
-            carbon:nameDev="Matt Bloomfield"
-            carbon:deviceStat="HTC One X (endeavoru), Galaxy Note 3 LTE (hltexx), Galaxy Note (n7000)"
-            carbon:statusDev="@string/status_dev"
-            carbon:googleHandle="115194825327804536850"
-            carbon:githubLink="http://github.com/mattmanwrx"
-            carbon:emailDev="webmaster@mattman.org"
-            carbon:twitterLink="_mattmann"  />
-
-        <com.carbon.about.widget.DeveloperPreference
-            carbon:nameDev="Patrick Campanale"
-            carbon:statusDev="@string/status_designers"
-            carbon:googleHandle="112082828842151104248" />
-
-        <com.carbon.about.widget.DeveloperPreference
-            carbon:nameDev="Robert Rascon"
-            carbon:statusDev="@string/status_dev"
-            carbon:deviceStat="Galaxy S3 Variant (d2xxx), LG G2 (vs980)"
-            carbon:googleHandle="101779483513094545241"
-            carbon:githubLink="http://github.com/bigshotrob22"
-            carbon:emailDev="rrascon22@gmail.com"
-            carbon:twitterLink="bigshotrob22" />
-
-        <com.carbon.about.widget.DeveloperPreference
-            carbon:nameDev="Tom Dulin"
-            carbon:statusDev="@string/status_dev_and_co_founder"
-            carbon:googleHandle="105296412157353903888"
-            carbon:githubLink="http://github.com/nocoast"
-            carbon:twitterLink="n0coast" />
-
-        <com.carbon.about.widget.DeveloperPreference
-            carbon:nameDev="Ricky Salinas"
-            carbon:statusDev="@string/status_dev"
-            carbon:googleHandle="104728329553291412498"
-            carbon:githubLink="http://github.com/slickrick"
-            carbon:emailDev="rsalinas1@mail.usf.edu" />
-
-        <com.carbon.about.widget.DeveloperPreference
-            carbon:nameDev="Tylar Overturf"
-            carbon:deviceStat="Nexus 7 2012'13, Galaxy Nexus (tuna), Nexus 5 (hammerhead)"
-            carbon:statusDev="@string/status_core_dev"
-            carbon:googleHandle="106513914946845471488"
-            carbon:githubLink="http://github.com/winner00"
-            carbon:emailDev="toverturf@gmail.com"
-            carbon:twitterLink="expertontech" />
+        <org.oct.about.widget.DeveloperPreference
+            oct:nameDev="Carl Windhausen"
+            oct:deviceStat="Galaxy S4"
+            oct:googleHandle="108504552994670221216"
+            oct:githubLink="http://github.com/CJDubbsy"
+            oct:emailDev="dubbsy@teamoctos.com"
+            oct:twitterLink="" />
 
 </PreferenceScreen>
