@@ -92,4 +92,12 @@
             oct:emailDev=" "
             oct:twitterLink=" " />
 
+        <org.oct.about.widget.DeveloperPreference
+            oct:nameDev="Hany Alsamman"
+            oct:deviceStat="All things that involve coding"
+            oct:googleHandle="+hanyalsamman"
+            oct:githubLink="http://github.com/codex-corp"
+            oct:emailDev="hany.alsamman@gmail.com"
+            oct:twitterLink="CodeXperts" />
+
 </PreferenceScreen>
