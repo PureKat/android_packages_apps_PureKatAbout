@@ -26,16 +26,14 @@
             oct:deviceStat="Little bit of errrything"
             oct:googleHandle="108504552994670221216"
             oct:githubLink="http://github.com/Octo-Kat"
-            oct:emailDev="dubbsy@teamoctos.com"
-            oct:twitterLink="" />
+            oct:emailDev="dubbsy@teamoctos.com" />
 
         <org.oct.about.widget.DeveloperPreference
             oct:nameDev="Christian Hayden"
             oct:deviceStat="Galaxy S4/Nexus 7"
             oct:googleHandle="108629933550760638415"
             oct:githubLink="http://github.com/hlxanthus"
-            oct:emailDev="hlxanthus@gmail.com"
-            oct:twitterLink="" />
+            oct:emailDev="hlxanthus@gmail.com" />
 
         <org.oct.about.widget.DeveloperPreference
             oct:nameDev="Donald Hoskins"
@@ -49,9 +47,7 @@
             oct:nameDev="Jason Gillett"
             oct:deviceStat="Galaxy S4"
             oct:googleHandle="101801583960474732505"
-            oct:githubLink=""
-            oct:emailDev="red3razor@teamoctos.com"
-            oct:twitterLink="" />
+            oct:emailDev="red3razor@teamoctos.com" />
 
          <org.oct.about.widget.DeveloperPreference
             oct:nameDev="Don Kaczmarek" 
@@ -64,7 +60,6 @@
             oct:nameDev="Simon Heintzelman"
             oct:deviceStat="Galaxy S4"
             oct:googleHandle="113495607190618154445"
-            oct:githubLink=""
             oct:emailDev="simontuffguy@teamoctos.com"
             oct:twitterLink="SimonTuffGuy" />
 
@@ -79,18 +74,17 @@
         <org.oct.about.widget.DeveloperPreference
             oct:nameDev="Richard Covington"
             oct:deviceStat="Galaxy S3"
-            oct:googleHandle=" "
+            oct:googleHandle="107745915259027136337"
             oct:githubLink="http://github.com/bthorne79"
-            oct:emailDev=" "
-            oct:twitterLink=" " />
+            oct:emailDev="rcovington79@gmail.com" />
 
         <org.oct.about.widget.DeveloperPreference
             oct:nameDev="Scott Lantow"
             oct:deviceStat="Galaxy S3/Gakaxy S4/Evita/Jewel"
-            oct:googleHandle=" "
+            oct:googleHandle="112279467781050894863"
             oct:githubLink="http://github.com/massstash"
-            oct:emailDev=" "
-            oct:twitterLink=" " />
+            oct:emailDev="MassStash@gmail.com"
+            oct:twitterLink="MassStash" />
 
         <org.oct.about.widget.DeveloperPreference
             oct:nameDev="Hany Alsamman"
