@@ -17,7 +17,7 @@
             oct:nameDev="Kevin Chupe"
             oct:deviceStat="Galaxy S4"
             oct:googleHandle="100982603651349625547"
-            oct:githubLink="http://github.com/treken"
+            oct:githubLink="http://github.com/Octo-Kat"
             oct:emailDev="treken@teamoctos.com"
             oct:twitterLink="treken_" />
 
@@ -25,8 +25,38 @@
             oct:nameDev="Carl Windhausen"
             oct:deviceStat="Galaxy S4"
             oct:googleHandle="108504552994670221216"
-            oct:githubLink="http://github.com/CJDubbsy"
+            oct:githubLink="http://github.com/Octo-Kat"
             oct:emailDev="dubbsy@teamoctos.com"
             oct:twitterLink="" />
+        <org.oct.about.widget.DeveloperPreference
+            oct:nameDev="Christian Hayden"
+            oct:deviceStat="Galaxy S4"
+            oct:googleHandle="108629933550760638415"
+            oct:githubLink="http://github.com/hlxanthus"
+            oct:emailDev="hlxanthus@gmail.com"
+            oct:twitterLink="" />
+
+        <org.oct.about.widget.DeveloperPreference
+            oct:nameDev="Jason Gillett"
+            oct:deviceStat="Galaxy S4"
+            oct:googleHandle="101801583960474732505"
+            oct:githubLink=""
+            oct:emailDev="red3razor@teamoctos.com"
+            oct:twitterLink="" />
+
+         <org.oct.about.widget.DeveloperPreference
+            oct:nameDev="Don Kaczmarek" 
+            oct:deviceStat="Galaxy S4"
+            oct:googleHandle="116601592664979954729" 
+            oct:emailDev="cjkacz@teamoctos.com" 
+            oct:twitterLink="donkaczmarek" /> 
+
+        <org.oct.about.widget.DeveloperPreference
+            oct:nameDev="Simon Heintzelman"
+            oct:deviceStat="Galaxy S4"
+            oct:googleHandle="113495607190618154445"
+            oct:githubLink=""
+            oct:emailDev="simontuffguy@teamoctos.com"
+            oct:twitterLink="SimonTuffGuy" />
 
 </PreferenceScreen>
