@@ -23,18 +23,27 @@
 
         <org.oct.about.widget.DeveloperPreference
             oct:nameDev="Carl Windhausen"
-            oct:deviceStat="Galaxy S4"
+            oct:deviceStat="Little bit of errrything"
             oct:googleHandle="108504552994670221216"
             oct:githubLink="http://github.com/Octo-Kat"
             oct:emailDev="dubbsy@teamoctos.com"
             oct:twitterLink="" />
+
         <org.oct.about.widget.DeveloperPreference
             oct:nameDev="Christian Hayden"
-            oct:deviceStat="Galaxy S4"
+            oct:deviceStat="Galaxy S4/Nexus 7"
             oct:googleHandle="108629933550760638415"
             oct:githubLink="http://github.com/hlxanthus"
             oct:emailDev="hlxanthus@gmail.com"
             oct:twitterLink="" />
+
+        <org.oct.about.widget.DeveloperPreference
+            oct:nameDev="Donald Hoskins"
+            oct:deviceStat="Galaxy S4/EpicMTD"
+            oct:googleHandle="116049903349972847544"
+            oct:githubLink="http://github.com/grommish"
+            oct:emailDev="grommish@teamoctos.com"
+            oct:twitterLink="Grommish" />
 
         <org.oct.about.widget.DeveloperPreference
             oct:nameDev="Jason Gillett"
@@ -46,7 +55,7 @@
 
          <org.oct.about.widget.DeveloperPreference
             oct:nameDev="Don Kaczmarek" 
-            oct:deviceStat="Galaxy S4"
+            oct:deviceStat="Galaxy S4/Galaxy S3/Nexus 7"
             oct:googleHandle="116601592664979954729" 
             oct:emailDev="cjkacz@teamoctos.com" 
             oct:twitterLink="donkaczmarek" /> 
@@ -58,5 +67,29 @@
             oct:githubLink=""
             oct:emailDev="simontuffguy@teamoctos.com"
             oct:twitterLink="SimonTuffGuy" />
+
+        <org.oct.about.widget.DeveloperPreference
+            oct:nameDev="Andrew Blitch"
+            oct:deviceStat="Galaxy S4"
+            oct:googleHandle="110907763629945189078"
+            oct:githubLink="http://github.com/Cruiserdude"
+            oct:emailDev="ajblitch@teamoctos.com"
+            oct:twitterLink="ajblitch" />
+
+        <org.oct.about.widget.DeveloperPreference
+            oct:nameDev="Richard Covington"
+            oct:deviceStat="Galaxy S3"
+            oct:googleHandle=" "
+            oct:githubLink="http://github.com/bthorne79"
+            oct:emailDev=" "
+            oct:twitterLink=" " />
+
+        <org.oct.about.widget.DeveloperPreference
+            oct:nameDev="Scott Lantow"
+            oct:deviceStat="Galaxy S3/Gakaxy S4/Evita/Jewel"
+            oct:googleHandle=" "
+            oct:githubLink="http://github.com/massstash"
+            oct:emailDev=" "
+            oct:twitterLink=" " />
 
 </PreferenceScreen>
