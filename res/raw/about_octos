@@ -1,7 +1,4 @@
-Real AOSP base + GPE(Google Play Edition) + OctSettings = OctOS
-
 Team-OctOS was assembled as a result of some developers that would not donate their invaluable knowledge when called upon for help. We decided to create our team so that we could work together and surpass any challenge that we were presented with in the whole scheme of development by calling on each other and our network of friends/colleagues.  We’ve only added to our members as we've found people who believe the same way we do.  The name itself was derived from the Latin word “octo” or Greek word “okto” meaning “eight/8″. Eight is numerically symbolic for new beginning, and so we wanted to start a new team with a new attitude towards development.
 
 Our goal is to provide the most user customizable ROM, without losing the “vanilla” flavor of AOSP.  Unlike other “AOSP” ROMs, we remained committed to keeping an AOSP base – Not a CyanogenMOD base like the other “AOSP” ROMs use.  We pull the majority of our repos straight from Google.  Our wish is to bring you the experience you want, at the customization level that is comfortable to you.  Feel free to browse our code, fork our repos, change our code(and witty comments), build our ROM yourself at home, or contribute to our ROM by contacting us.
-
 ~In Grommish We Trust~
