@@ -52,7 +52,7 @@
          <org.oct.about.widget.DeveloperPreference
             oct:nameDev="Don Kaczmarek" 
             oct:deviceStat="Galaxy S4/Galaxy S3/Nexus 7"
-            oct:googleHandle="116601592664979954729" 
+            oct:googleHandle="103851489567267100761" 
             oct:emailDev="cjkacz@teamoctos.com" 
             oct:twitterLink="donkaczmarek" /> 
 
@@ -89,7 +89,7 @@
         <org.oct.about.widget.DeveloperPreference
             oct:nameDev="Hany Alsamman"
             oct:deviceStat="All things that involve coding"
-            oct:googleHandle="+hanyalsamman"
+            oct:googleHandle="100647680310191018719"
             oct:githubLink="http://github.com/codex-corp"
             oct:emailDev="hany.alsamman@teamoctos.com"
             oct:twitterLink="CodeXperts" />
