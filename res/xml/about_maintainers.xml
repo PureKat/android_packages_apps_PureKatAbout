@@ -23,7 +23,7 @@
 
         <org.oct.about.widget.DeveloperPreference
             oct:nameDev="Carl Windhausen"
-            oct:deviceStat="Little bit of errrything"
+            oct:deviceStat="Little bit of everything"
             oct:googleHandle="108504552994670221216"
             oct:githubLink="http://github.com/Octo-Kat"
             oct:emailDev="dubbsy@teamoctos.com" />
@@ -33,7 +33,7 @@
             oct:deviceStat="Galaxy S4/Nexus 7"
             oct:googleHandle="108629933550760638415"
             oct:githubLink="http://github.com/hlxanthus"
-            oct:emailDev="hlxanthus@gmail.com" />
+            oct:emailDev="hlxanthus@teamoctos.com" />
 
         <org.oct.about.widget.DeveloperPreference
             oct:nameDev="Donald Hoskins"
@@ -76,14 +76,14 @@
             oct:deviceStat="Galaxy S3"
             oct:googleHandle="107745915259027136337"
             oct:githubLink="http://github.com/bthorne79"
-            oct:emailDev="rcovington79@gmail.com" />
+            oct:emailDev="rcovington79@teamoctos.com" />
 
         <org.oct.about.widget.DeveloperPreference
             oct:nameDev="Scott Lantow"
             oct:deviceStat="Galaxy S3/Gakaxy S4/Evita/Jewel"
             oct:googleHandle="112279467781050894863"
             oct:githubLink="http://github.com/massstash"
-            oct:emailDev="MassStash@gmail.com"
+            oct:emailDev="MassStash@teamoctos.com"
             oct:twitterLink="MassStash" />
 
         <org.oct.about.widget.DeveloperPreference
@@ -91,7 +91,7 @@
             oct:deviceStat="All things that involve coding"
             oct:googleHandle="+hanyalsamman"
             oct:githubLink="http://github.com/codex-corp"
-            oct:emailDev="hany.alsamman@gmail.com"
+            oct:emailDev="hany.alsamman@teamoctos.com"
             oct:twitterLink="CodeXperts" />
 
 </PreferenceScreen>
