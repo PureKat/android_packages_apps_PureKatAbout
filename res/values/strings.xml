@@ -17,7 +17,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <string name="app_name">About OctOS</string>
-    <string name="maintainers_title">Maintainers</string>
+    <string name="maintainers_title">The Team</string>
     <string name="maintainers_version_text">listed in no particular order</string>
     <string name="finish_button_text">Finish</string>
     <string name="back_button_text">Back</string>
@@ -25,10 +25,10 @@
     <string name="menu_exit">Exit</string>
 
     <!-- Tabs -->
-    <string name="about_title">About</string>
+    <string name="about_title">About OctOS</string>
     <string name="features_title">Features</string>
-    <string name="oct_main_members">Core Team</string>
-    <string name="oct_maintainers">Maintainers</string>
+    <string name="oct_main_members">Founders</string>
+    <string name="oct_maintainers">The Team</string>
     <string name="oct_team">Team Meetup</string>
 
     <!-- Team OctOS -->
