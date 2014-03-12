@@ -93,5 +93,21 @@
             oct:githubLink="http://github.com/codex-corp"
             oct:emailDev="hany.alsamman@teamoctos.com"
             oct:twitterLink="CodeXperts" />
+        
+        <org.oct.about.widget.DeveloperPreference
+            oct:nameDev="Tigran Kharatian"
+            oct:deviceStat="Galaxy s4"
+            oct:googleHandle="111105024400348624519"
+            oct:githubLink="http://github.com/agat63"
+            oct:emailDev="agat63@teamoctos.com"
+            oct:twitterLink="" />
+            
+        <org.oct.about.widget.DeveloperPreference
+            oct:nameDev="Neo"
+            oct:deviceStat="HTC One/One-X"
+            oct:googleHandle="108628452405864388791"
+            oct:githubLink="http://github.com/IAmTheOneTheyCallNeo"
+            oct:emailDev="neo@teamoctos.com"
+            oct:twitterLink="" />
 
 </PreferenceScreen>
