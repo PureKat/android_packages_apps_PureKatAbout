@@ -39,8 +39,8 @@ public class AboutFragments extends Fragment {
 
         View aboutView = inflater.inflate(R.layout.about_fragment, container, false);
 
-        TextView aboutTitle = (TextView) aboutView.findViewById(R.id.about_title);
-        aboutTitle.append(" OctOS ");
+        /**TextView aboutTitle = (TextView) aboutView.findViewById(R.id.about_title);
+        aboutTitle.append(" OctOS ");*/
 
         TextView aboutText = (TextView) aboutView.findViewById(R.id.about);
         aboutText.setText(Utils.readRawFile(AboutActivity.appContext, R.raw.about_octos));
