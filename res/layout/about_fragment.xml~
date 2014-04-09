@@ -39,7 +39,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:padding="10sp"
-                android:src="@drawable/purekat_logo"/>
+                android:src="@drawable/octos_logo"/>
 
             <TextView android:id="@+id/about"
                 android:layout_width="wrap_content"
