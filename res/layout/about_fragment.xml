@@ -51,7 +51,7 @@
                 android:layout_width="@dimen/btn_width"
                 android:layout_height="@dimen/btn_height"
                 android:background="@drawable/card_selector"
-                android:text="@string/oct_website_title"
+                android:text="@string/purekat_website_title"
                 android:textAppearance="@style/button_text_style"
                 android:gravity="center" />
 
@@ -60,7 +60,7 @@
                 android:layout_width="@dimen/btn_width"
                 android:layout_height="@dimen/btn_height"
                 android:background="@drawable/card_selector"
-                android:text="@string/oct_donate_title"
+                android:text="@string/purekat_donate_title"
                 android:textAppearance="@style/button_text_style"
                 android:gravity="center" />
 
