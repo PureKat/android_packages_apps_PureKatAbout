@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package org.oct.about.fragments;
+package com.purekat.about.fragments;
 
 import android.content.Intent;
 import android.net.Uri;
@@ -27,9 +27,9 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.TextView;
 
-import org.oct.about.activities.AboutActivity;
-import org.oct.about.R;
-import org.oct.about.Utils;
+import com.purekat.about.activities.AboutActivity;
+import com.purekat.about.R;
+import com.purekat.about.Utils;
 
 public class AboutFragments extends Fragment {
 
@@ -40,16 +40,16 @@ public class AboutFragments extends Fragment {
         View aboutView = inflater.inflate(R.layout.about_fragment, container, false);
 
         /**TextView aboutTitle = (TextView) aboutView.findViewById(R.id.about_title);
-        aboutTitle.append(" OctOS ");*/
+        aboutTitle.append(" PureKat ");*/
 
         TextView aboutText = (TextView) aboutView.findViewById(R.id.about);
-        aboutText.setText(Utils.readRawFile(AboutActivity.appContext, R.raw.about_octos));
+        aboutText.setText(Utils.readRawFile(AboutActivity.appContext, R.raw.about_purekat));
 
         Button btnDonate = (Button) aboutView.findViewById(R.id.btn_donate);
         btnDonate.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Uri donateURL = Uri.parse("http://www.teamoctos.com/donate/");
+                Uri donateURL = Uri.parse("https://www.paypal.com/uk/cgi-bin/webscr?cmd=_flow&SESSION=Vdl1McKxFwehRQCHIQsjvG_u_RGdYzwJSznfo7mz035Q-cqmEEUz4mZGWrq&dispatch=5885d80a13c0db1f8e263663d3faee8d8cdcf517b037b4502f6cc98f1ee6e5fb");
                 final Intent donIntent = new Intent(Intent.ACTION_VIEW, donateURL);
                 donIntent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TOP);
                 startActivity(donIntent);
@@ -60,7 +60,7 @@ public class AboutFragments extends Fragment {
         btnWebsite.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Uri webURL = Uri.parse("http://www.teamoctos.com");
+                Uri webURL = Uri.parse("http://www.plus.google.com/+PureKat");
                 final Intent webIntent = new Intent(Intent.ACTION_VIEW, webURL);
                 webIntent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TOP);
                 startActivity(webIntent);

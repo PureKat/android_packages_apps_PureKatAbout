@@ -1,4 +1,4 @@
-package org.oct.about.widget;
+package com.purekat.about.widget;
 
 import android.content.Context;
 import android.support.v4.widget.DrawerLayout;

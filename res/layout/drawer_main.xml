@@ -13,10 +13,10 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<org.oct.about.widget.CustomDrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<com.purekat.about.widget.CustomDrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/dw_drawer_layout"
-    android:tag="OctOSAbout"
+    android:tag="PureKatAbout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:animateLayoutChanges="true"
@@ -38,5 +38,5 @@
         android:divider="@android:color/transparent"
         android:dividerHeight="0dp" />
 
-</org.oct.about.widget.CustomDrawerLayout>
+</com.purekat.about.widget.CustomDrawerLayout>
 

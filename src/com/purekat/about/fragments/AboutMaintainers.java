@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.oct.about.fragments;
+package com.purekat.about.fragments;
 
 import android.content.ActivityNotFoundException;
 import android.content.ComponentName;
@@ -32,7 +32,7 @@ import android.widget.ListView;
 import java.util.ArrayList;
 import java.util.Collections;
 
-import org.oct.about.R;
+import com.purekat.about.R;
 
 public class AboutMaintainers extends PreferenceFragment {
 

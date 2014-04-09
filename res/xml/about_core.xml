@@ -1,21 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PreferenceScreen
     xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:oct="http://schemas.android.com/apk/res/org.oct.about">
+    xmlns:purekat="http://schemas.android.com/apk/res/com.purekat.about">
 
-        <org.oct.about.widget.DeveloperPreference
-            oct:nameDev="Kevin Chupe"
-            oct:deviceStat="Galaxy S4"
-            oct:googleHandle="100982603651349625547"
-            oct:githubLink="http://github.com/treken"
-            oct:emailDev="treken@teamoctos.com"
-            oct:twitterLink="treken_" />
+        <com.purekat.about.widget.DeveloperPreference
+            purekat:nameDev="Marco Marinho"
+            purekat:deviceStat="Developer"
+            purekat:googleHandle="+MarcoMarinho12"
+            purekat:githubLink="http://github.com/MarcoMarinho"
+            purekat:emailDev="marcomarinho12@gmail.com"
+            purekat:twitterLink="marcomarinho6" />
 
-        <org.oct.about.widget.DeveloperPreference
-            oct:nameDev="Carl Windhausen"
-            oct:deviceStat="Galaxy S4"
-            oct:googleHandle="108504552994670221216"
-            oct:githubLink="http://github.com/CJDubbsy"
-            oct:emailDev="dubbsy@teamoctos.com" />
+        <com.purekat.about.widget.DeveloperPreference
+            purekat:nameDev="Jarek Frac"
+            purekat:deviceStat="Designer" />
 
 </PreferenceScreen>

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.oct.about.activities;
+package com.purekat.about.activities;
 
 import android.app.ActionBar;
 import android.app.Activity;
@@ -46,9 +46,9 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
 
-import org.oct.about.R;
-import org.oct.about.fragments.*;
-import org.oct.about.widget.CustomDrawerLayout;
+import com.purekat.about.R;
+import com.purekat.about.fragments.*;
+import com.purekat.about.widget.CustomDrawerLayout;
 
 public class AboutActivity extends FragmentActivity {
 
@@ -282,8 +282,8 @@ public class AboutActivity extends FragmentActivity {
         DRAWER_MODE = 0;
         titleString = new String[]{
                 getString(R.string.about_title),
-                getString(R.string.oct_main_members),
-                getString(R.string.oct_maintainers)};
+                getString(R.string.purekat_main_members),
+                getString(R.string.purekat_maintainers)};
         return titleString;
     }
 

@@ -16,7 +16,7 @@
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <string name="app_name">About OctOS</string>
+    <string name="app_name">About PureKat</string>
     <string name="maintainers_title">The Team</string>
     <string name="maintainers_version_text">listed in no particular order</string>
     <string name="finish_button_text">Finish</string>
@@ -25,15 +25,15 @@
     <string name="menu_exit">Exit</string>
 
     <!-- Tabs -->
-    <string name="about_title">About OctOS</string>
+    <string name="about_title">About PureKat</string>
     <string name="features_title">Features</string>
-    <string name="oct_main_members">Founders</string>
-    <string name="oct_maintainers">The Team</string>
-    <string name="oct_team">Team Meetup</string>
+    <string name="purekat_main_members">Founders</string>
+    <string name="purekat_maintainers">The Team</string>
+    <string name="purekat_team">Team Meetup</string>
 
-    <!-- Team OctOS -->
-    <string name="octos_title">Team OctOS</string>
-    <string name="octos_version_text"></string>
+    <!-- Team PureKat -->
+    <string name="purekat_title">Team PureKat</string>
+    <string name="purekat_version_text"></string>
 
     <!-- Drawer dependency -->
     <string name="navigation_drawer_open">Open navigation drawer</string>
@@ -56,6 +56,6 @@
     <string name="status_dev_and_co_founder">Developer / Co-Founder</string>
 
     <!-- URLs -->
-    <string name="oct_website_title">Visit our website</string>
-    <string name="oct_donate_title">Donate to OctOS</string>
+    <string name="purekat_website_title">Visit our website</string>
+    <string name="purekat_donate_title">Donate to PureKat</string>
 </resources>

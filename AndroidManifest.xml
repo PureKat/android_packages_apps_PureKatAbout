@@ -16,7 +16,7 @@
 -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="org.oct.about" >
+    package="com.purekat.about" >
 
     <uses-sdk android:minSdkVersion="16" android:targetSdkVersion="19" />
     <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />

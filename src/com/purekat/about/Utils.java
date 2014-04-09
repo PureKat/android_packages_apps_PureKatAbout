@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package org.oct.about;
+package com.purekat.about;
 
 import android.content.Context;
 

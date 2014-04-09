@@ -10,7 +10,7 @@ LOCAL_STATIC_JAVA_LIBRARIES := \
     android-support-v4 \
     android-support-v13
 
-LOCAL_PACKAGE_NAME := OctOSAbout
+LOCAL_PACKAGE_NAME := PureKatAbout
 
 include $(BUILD_PACKAGE)
 
