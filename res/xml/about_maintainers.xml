@@ -26,6 +26,13 @@
             purekat:deviceStat="Designer" />
 
         <com.purekat.about.widget.DeveloperPreference
+            purekat:nameDev="Jesus Partida"
+	    purekat:deviceStat="Designer (BootAnimation)"
+            purekat:googleHandle="+JesusPartida"
+            purekat:emailDev="j_partida@hotmail.com"
+            purekat:twitterLink="PartimusPrime" />
+
+        <com.purekat.about.widget.DeveloperPreference
             purekat:nameDev="Andromadus Team"
             purekat:deviceStat="HTC Desire Z (G2)" />
 

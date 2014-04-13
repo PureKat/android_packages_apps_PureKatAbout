@@ -5,7 +5,7 @@
 
         <com.purekat.about.widget.DeveloperPreference
             purekat:nameDev="Marco Marinho"
-            purekat:deviceStat="Developer"
+            purekat:deviceStat="Developer/Founder"
             purekat:googleHandle="+MarcoMarinho12"
             purekat:githubLink="http://github.com/MarcoMarinho"
             purekat:emailDev="marcomarinho12@gmail.com"
@@ -14,5 +14,12 @@
         <com.purekat.about.widget.DeveloperPreference
             purekat:nameDev="Jarek Frac"
             purekat:deviceStat="Designer" />
+
+        <com.purekat.about.widget.DeveloperPreference
+            purekat:nameDev="Jesus Partida"
+	    purekat:deviceStat="Designer"
+            purekat:googleHandle="+JesusPartida"
+            purekat:emailDev="j_partida@hotmail.com"
+            purekat:twitterLink="PartimusPrime" />
 
 </PreferenceScreen>

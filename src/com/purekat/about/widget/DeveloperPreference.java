@@ -164,7 +164,7 @@ public class DeveloperPreference extends Preference implements OnMenuItemClickLi
             devStatus.setVisibility(View.GONE);
         }
         if (deviceStat != null) {
-            final String device = "Device: " + deviceStat;
+            final String device = " " + deviceStat;
             devDeviceStat.setText(device);
         } else {
             devDeviceStat.setVisibility(View.GONE);

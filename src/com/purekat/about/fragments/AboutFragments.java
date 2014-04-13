@@ -49,7 +49,7 @@ public class AboutFragments extends Fragment {
         btnDonate.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Uri donateURL = Uri.parse("https://www.paypal.com/uk/cgi-bin/webscr?cmd=_flow&SESSION=Vdl1McKxFwehRQCHIQsjvG_u_RGdYzwJSznfo7mz035Q-cqmEEUz4mZGWrq&dispatch=5885d80a13c0db1f8e263663d3faee8d8cdcf517b037b4502f6cc98f1ee6e5fb");
+                Uri donateURL = Uri.parse("https://www.paypal.com/cgi-bin/webscr?cmd=_flow&SESSION=1as75bp98IIKxgJCr5t1s90cV4HlOwQlLHoX1Ksd7wxPCnEdbFMagV5Y_8q&dispatch=5885d80a13c0db1f8e263663d3faee8d8cdcf517b037b4502f6cc98f1ee6e5fb");
                 final Intent donIntent = new Intent(Intent.ACTION_VIEW, donateURL);
                 donIntent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TOP);
                 startActivity(donIntent);
@@ -60,7 +60,7 @@ public class AboutFragments extends Fragment {
         btnWebsite.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Uri webURL = Uri.parse("http://www.plus.google.com/+PureKat");
+                Uri webURL = Uri.parse("http://www.plus.google.com/107408257507020967586/posts");
                 final Intent webIntent = new Intent(Intent.ACTION_VIEW, webURL);
                 webIntent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TOP);
                 startActivity(webIntent);
