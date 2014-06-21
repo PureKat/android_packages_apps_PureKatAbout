@@ -11,15 +11,4 @@
             purekat:emailDev="marcomarinho12@gmail.com"
             purekat:twitterLink="marcomarinho6" />
 
-        <com.purekat.about.widget.DeveloperPreference
-            purekat:nameDev="Jarek Frac"
-            purekat:deviceStat="Designer" />
-
-        <com.purekat.about.widget.DeveloperPreference
-            purekat:nameDev="Jesus Partida"
-	    purekat:deviceStat="Designer"
-            purekat:googleHandle="+JesusPartida"
-            purekat:emailDev="j_partida@hotmail.com"
-            purekat:twitterLink="PartimusPrime" />
-
 </PreferenceScreen>
